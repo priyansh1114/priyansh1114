@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning full stack web development
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
 
 ###
 
